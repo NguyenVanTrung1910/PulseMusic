@@ -1,0 +1,499 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Pulse Music</title>
+    <meta name="description" content="Music, Musician, Bootstrap">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
+    <link rel="apple-touch-icon" href="/images/logo.png">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Flatkit" />
+    <link rel="shortcut icon" sizes="196x196" href="/images/logo.png">
+    <link rel="stylesheet" href="/css/animate.css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/glyphicons/glyphicons.css" type="text/css">
+    <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/material-design-icons/material-design-icons.css" type="text/css">
+    <link rel="stylesheet" href="/css/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/styles/app.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/theme/info.css">
+    
+</head>
+
+<body class="pace-run bg-dark" data-ui-class="grey">
+
+    <div class="app dk" id="app">
+    <div id="aside" class="app-aside modal fade nav-dropdown">
+        <div class="left navside grey dk" data-layout="column">
+            <div class="navbar no-radius">
+                <a href="/Main/discover" class="navbar-brand md">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32">
+                        <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                        <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                        <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                        <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                        <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                        <circle cx="24" cy="24" r="3" fill="#000000" />
+                    </svg> <img src="/images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+                </a>
+            </div>
+            <div data-flex class="hide-scroll">
+                <nav class="scroll nav-stacked nav-active-primary">
+                    <ul class="nav" data-ui-nav>
+                        <li class="nav-header hidden-folded "><span class="text-xs text-muted">Main</span></li>
+                        <li >
+                            <a href="/main/discover" >
+                                <span class="nav-icon"><i class="material-icons">play_circle_outline</i></span>
+                                <span class="nav-text">Discover</span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="/main/browse" `>
+                                <span class="nav-icon"><i class="material-icons">sort</i></span> <span class="nav-text">Browse</span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="/main/charts" >
+                                <span class="nav-icon"><i class="material-icons">trending_up</i></span> <span class="nav-text">Charts</span>
+                            </a>
+                        </li >
+                        <li>
+                            <a href="/main/artist" >
+                                <span class="nav-icon"><i class="material-icons">portrait</i></span> <span class="nav-text">Artist</span>
+                            </a>
+                        </li>
+                        <li >
+                            <a data-toggle="modal" data-target="#search-modal">
+                                <span class="nav-icon">
+                                    <i class="material-icons">search</i>
+                                </span> <span class="nav-text">Search</span>
+                            </a>
+                        </li>
+                        <li class="nav-header hidden-folded m-t"><span class="text-xs text-muted">Your collection</span></li>
+                        <li >
+                            <a href="/Collection/Index#likes" >
+                                <span class="nav-icon">
+                                    <i class="material-icons">favorite_border</i>
+                                </span> <span class="nav-text">Likes</span>
+                            </a>
+                        </li>
+                        
+                        <li >
+                                <a href="/Collection/Index#playlists" >
+                                <span class="nav-icon">
+                                    <i class="material-icons">queue_music</i>
+                                </span> <span class="nav-text">Playlists</span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="/Collection/Index#tracks" >
+                                <span class="nav-label"></span> <span class="nav-icon"><i class="material-icons">list</i></span> <span class="nav-text">Tracks</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div data-flex-no-shrink>
+                <div class="nav-fold dropup">
+                    <a data-toggle="dropdown">
+                        <span class="pull-left">
+                            <img src="/images/andiez.jpg"
+                                    alt="..." class="w-32 img-circle">
+                        </span> <span class="clear hidden-folded p-x p-y-xs">
+                                @if (@access.HttpContext.Session.GetString("Name") != null)
+                                {
+                                    <span class="block _500 text-ellipsis">@access.HttpContext.Session.GetString("Name")</span>
+
+                                }else{
+                                    <span class="block _500 text-ellipsis">Account</span>
+                                }
+                        </span>
+                    </a>
+                    <div class="dropdown-menu w dropdown-menu-scale">
+                        <a class="dropdown-item" href="/Collection/index#tracks"><span>Tracks</span></a>
+                        <a class="dropdown-item" href="/Collection/index#playlists"><span>Playlists</span></a>
+                        <a class="dropdown-item" href="/Collection/index#likes"><span>Likes</span></a>
+                        <div class="dropdown-divider"></div>
+                        @if (access.HttpContext.Session.GetString("Id") != null)
+                        {
+                            <a class="dropdown-item" href="/Account/logout">Log out</a>
+                        }
+                        else
+                        {
+                            <a class="dropdown-item" href="/Account/signin">Sign in</a>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+    <div id="switcher">
+            <div class="switcher grey" id="sw-theme">
+                <a href="#" data-ui-toggle-class="active"
+                   data-ui-target="#sw-theme" class="grey sw-btn"><i class="fa fa-gear text-muted"></i></a>
+                <div class="box-header">
+                    <strong>Theme Switcher</strong>
+                </div>
+                <div class="box-divider"></div>
+                <div class="box-body">
+                    <p id="settingLayout" class="hidden-md-down">
+                        <label class="md-check m-y-xs"
+                               data-target="folded">
+                            <input type="checkbox"> <i class="green"></i> <span>
+                                Folded
+                                Aside
+                            </span>
+                        </label><label class="m-y-xs pointer" data-ui-fullscreen
+                                       data-target="fullscreen">
+                            <span class="fa fa-expand fa-fw m-r-xs"></span> <span>
+                                Fullscreen
+                                Mode
+                            </span>
+                        </label>
+                    </p>
+                    <p>Colors:</p>
+                    <p data-target="color">
+                        <label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio" name="color" value="accent"> <i class="accent"></i>
+                        </label>
+                        <label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio" name="color" value="primary"> <i class="primary"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="warn"> <i class="warn"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="success"> <i class="success"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="info"> <i class="info"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="blue"> <i class="blue"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="warning"> <i class="warning"></i>
+                        </label><label class="radio radio-inline m-a-0 ui-check ui-check-color ui-check-md">
+                            <input type="radio"
+                                   name="color" value="danger"> <i class="danger"></i>
+                        </label>
+                    </p>
+                    <p>Themes:</p>
+                    <div data-target="bg" class="text-u-c text-center _600 clearfix">
+                        <label class="p-a col-xs-3 light pointer m-a-0">
+                            <input type="radio" name="theme" value="" hidden>
+                            <i class="active-checked fa fa-check"></i>
+                        </label><label class="p-a col-xs-3 grey pointer m-a-0">
+                            <input type="radio" name="theme" value="grey"
+                                   hidden> <i class="active-checked fa fa-check"></i>
+                        </label><label class="p-a col-xs-3 dark pointer m-a-0">
+                            <input type="radio" name="theme" value="dark"
+                                   hidden> <i class="active-checked fa fa-check"></i>
+                        </label><label class="p-a col-xs-3 black pointer m-a-0">
+                            <input type="radio" name="theme" value="black"
+                                   hidden> <i class="active-checked fa fa-check"></i>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+     @await Component.InvokeAsync("SearchMusic")
+
+
+    <div id="share-modal" class="modal fade animate">
+        <div class="modal-dialog">
+            <div class="modal-content fade-down">
+                <div class="modal-header">
+                    <h5 class="modal-title">Share</h5>
+                </div>
+                <div class="modal-body p-lg">
+                    <div id="share-list" class="m-b">
+                        <a href=""
+                            class="btn btn-icon btn-social rounded btn-social-colored indigo" title="Facebook">
+                            <i class="fa fa-facebook"></i> <i class="fa fa-facebook"></i>
+                        </a> <a href=""
+                                class="btn btn-icon btn-social rounded btn-social-colored light-blue" title="Twitter">
+                            <i class="fa fa-twitter"></i> <i class="fa fa-twitter"></i>
+                        </a> <a href=""
+                                class="btn btn-icon btn-social rounded btn-social-colored red-600" title="Google+">
+                            <i class="fa fa-google-plus"></i> <i class="fa fa-google-plus"></i>
+                        </a> <a href=""
+                                class="btn btn-icon btn-social rounded btn-social-colored blue-grey-600" title="Trumblr">
+                            <i class="fa fa-tumblr"></i> <i class="fa fa-tumblr"></i>
+                        </a> <a href=""
+                                class="btn btn-icon btn-social rounded btn-social-colored red-700" title="Pinterst">
+                            <i class="fa fa-pinterest"></i> <i class="fa fa-pinterest"></i>
+                        </a>
+                    </div>
+                    <div><input class="form-control" value="http://pulsemusic.com"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="delete-modal" class="modal fade animate black-overlay" data-backdrop="false">
+            <div class="row-col h-v">
+                <div class="row-cell v-m">
+                    <div class="modal-dialog modal-sm">
+                        <form method="post" action="/collection/DeleteArtist">
+                            <div class="modal-content flip-y mdft">
+                                <div class="modal-body text-center">
+                                    <p class="p-y m-t"><i class="fa fa-remove text-warning fa-3x"></i></p>
+                                    <p>Are you sure to delete this item?</p>
+                                </div>
+                                <div class="modal-footer ">
+                                    <button type="button" class="btn btn-default p-x-md" data-dismiss="modal"> No</button>
+                                    <button type="submit" class="btn red p-x-md"> Yes</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @await Component.InvokeAsync("AddMusic")
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form method="get" action="/collection/createplaylist">
+                    <div class="modal-body">
+                        <label>Name Of Playlist: </label>
+                        <input type="text" name="name" value="" style="width:100%;margin-top:10px;border:1px solid grey;height:40px;border-radius:10px"/>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+
+    
+
+    <script src="/js/app.min.js"></script>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/jquery.slim.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="/lib/screenfull/dist/screenfull.min.js"></script>
+    <script src="/lib/sticky-kit/jquery.sticky-kit.min.js"></script>
+    <script>
+        function copyLink() {
+            var dummy = document.createElement('input');
+            var text = window.location.href;
+
+            document.body.appendChild(dummy);
+            dummy.value = text;
+            dummy.select();
+            document.execCommand('copy');
+            document.body.removeChild(dummy);
+
+            var copyStatus = document.getElementById('copyStatus');
+            copyStatus.style.display = 'block';
+            setTimeout(function () {
+                copyStatus.style.display = 'none';
+            }, 2000);
+        }
+        $(document).on('DOMContentLoaded', function () {
+            addCloseEventListeners();
+            addLikeEventListeners();
+            addDeleteEventListeners();
+            addFollowEventListeners();
+            addPlayerEventListenrs();
+            addDeletePlEventListeners();
+        });
+        function addPlayerEventListenrs(){
+            $(document).on('click', '.btn-playpause', function () {
+                var id = $(this).data("id");
+                fetch("/collection/addPlayer/" + id, {
+                    method: "GET",
+                    headers: {
+                        "Content-Type": "application/json"
+                    }
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        // Xử lý phản hồi từ server tại đây (ví dụ: cập nhật giao diện)
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+            });
+
+        }
+
+
+        function addCloseEventListeners() {
+            $(".btn-close").each(function () {
+                $(this).off('click').on('click', function () {
+                    var id = $(this).data("id");
+                    fetch("/collection/DeleteLike/" + id, {
+                        method: "GET",
+                        headers: {
+                            "Content-Type": "application/json"
+                        }
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            alert("Success!!");
+                            console.log(data);
+                            setTimeout(function () {
+                                window.location.reload();
+                            }, 500);
+                        })
+                        .catch(error => {
+                            console.error('Error:', error);
+                        });
+                });
+            });
+        }
+        function addDeleteEventListeners() {
+            $(document).on('click', '.deleteMusic', function () {
+                var id = $(this).data("id");
+                var playlistid = $(this).data("playlistid");
+                fetch("/collection/DeleteMusic?id=" + id, {
+                    method: "GET",
+                    headers: {
+                        "Content-Type": "application/json"
+                    }
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        alert("Success!!");
+                        console.log(data);
+                        setTimeout(function () {
+                            window.location.reload();
+                        }, 500);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+            });
+
+        }
+        function addDeletePlEventListeners() {
+            $(document).on('click', '.deleteplaylist', function () {
+                var id = $(this).data("id");
+                fetch("/collection/Deleteplaylist/" + id, {
+                    method: "GET",
+                    headers: {
+                        "Content-Type": "application/json"
+                    }
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        alert("Success!!");
+                        console.log(data);
+                        setTimeout(function () {
+                            window.location.reload();
+                        }, 500);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+            });
+
+        }
+        function addLikeEventListeners() {
+            $(document).on('click', '.btn-favorite', function (e) {
+                e.preventDefault(); // Ngăn hành động mặc định của thẻ <a>
+
+                var $this = $(this);
+                var id = $this.data("id");
+
+                // Thực hiện yêu cầu đến server (POST hoặc GET, tùy thuộc vào API)
+                fetch("/collection/like/" + id, {
+                    method: "get", // Hoặc "GET" nếu cần
+                    headers: {
+                        "Content-Type": "application/json"
+                    }
+                })
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error("Network response was not ok " + response.statusText);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        if (data.success) {
+                            // Toggle class của biểu tượng trái tim
+                            var $icon = $this.find('i');
+
+                            if ($icon.hasClass('fa-heart-o')) {
+                                $icon.removeClass('fa-heart-o').addClass('fa-heart'); // Đổi thành trái tim đầy
+                            } else {
+                                $icon.removeClass('fa-heart').addClass('fa-heart-o'); // Đổi lại thành trái tim rỗng
+                            }
+
+                            // Thông báo thành công
+                            alert(data.message || "Action was successful!");
+                        } else {
+                            alert(data.message || "An error occurred.");
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert("An error occurred while trying to perform the action.");
+                    });
+            });
+        }
+
+        function addFollowEventListeners() {
+            // Sử dụng sự kiện uỷ quyền để đảm bảo sự kiện click luôn được lắng nghe
+            $(document).on('click', '.btn-follow', function () {
+                var id = $(this).data("id");
+
+                // Gửi yêu cầu follow tới server
+                fetch("/collection/follow/" + id, {
+                    method: "GET",  // Nếu dùng GET thì không cần headers application/json
+                })
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error("Network response was not ok " + response.statusText);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        if (data.success) {
+                            alert(data.message || "Action was successful!");
+                        } else {
+                            alert(data.message || "An error occurred.");
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });
+            });
+        }
+
+        $('.dt1').click(function (e) {
+            e.preventDefault();
+            var selectedText = $(this).text();
+            $('#dropdownMenuButton').text(selectedText);
+            $('.dt1').removeClass('active');
+            $(this).addClass('active');
+        });
+        $('.dt2').mouseenter(function (e) {
+            e.preventDefault();
+            var selectedText = $(this).text();
+            $('#Genrebt').text(selectedText);
+            $('.dt2').removeClass('active');
+            $(this).addClass('active');
+        });
+
+
+        
+
+    </script>
+
+</body>
+
+</html>

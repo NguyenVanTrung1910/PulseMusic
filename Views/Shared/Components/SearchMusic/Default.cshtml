@@ -1,0 +1,97 @@
+﻿@model IEnumerable<PulseMusic.Models.Music>
+<div class="modal grey lt fade" id="search-modal" data-backdrop="false">
+    <a data-dismiss="modal"
+       class="text-muted text-lg p-x modal-close-btn">&times;</a>
+    <div class="row-col">
+        <div class="p-a-lg h-v row-cell v-m">
+            <div class="row">
+                <div class="col-md-8 offset-md-2">
+                    <form action="/Main/GetMusic" class="m-b-md" method="post">
+                        <div class="input-group input-group-lg">
+                            <input type="text" class="form-control" name="searchkey"
+                                   placeholder="Type keyword" data-ui-toggle-class="hide" data-ui-target="#search-result"> <span class="input-group-btn"><button class="btn b-a no-shadow white" type="submit">Search</button></span>
+                        </div>
+                    </form>
+                    <div id="search-result" class="animated fadeIn">
+                        <p class="m-b-md">
+                            <strong>Recommendation</strong> 
+                                
+                        </p>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="row item-list item-list-sm item-list-by m-b">
+                                    @if (Model != null)
+                                    {
+                                        int count = 0;
+                                        foreach(var a in Model)
+                                    {
+                                            count++;
+                                            if(count>4){ break; }
+                                            <div class="col-xs-12">
+                                            <div class="item r" data-id="item-@a.Id.Substring(1)" data-src="/music/@a.LinkAudio">
+                                                <div class="item-media">
+                                                    <a href="/Main/ArtistDetail/@a.ArtistId" class="item-media-content"
+                                                       style="background-image: url('/images/@a.Image')"></a>
+                                                </div>
+                                                <div class="item-info">
+                                                    <div class="item-title text-ellipsis"><a href="/Main/ArtistDetail/@a.ArtistId">@a.Name</a></div>
+                                                    <div class="item-author text-sm text-ellipsis">
+                                                        <a href="/Main/ArtistDetail/@a.ArtistId"
+                                                           class="text-muted">@a.Artist.Name</a>
+                                                    </div>
+                                                    <div class="item-meta text-sm text-muted"></div>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("No Music");
+                                    }
+
+                                    
+                                    
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="row item-list item-list-sm item-list-by m-b">
+                                    @if (Model != null)
+                                    {
+                                        int count = 0;
+                                        foreach (var a in Model)
+                                        {
+                                            count++;
+                                            if (count < 5) { continue; }
+                                            <div class="col-xs-12">
+                                                <div class="item r" data-id="item-@a.Id.Substring(1)" data-src="/music/@a.LinkAudio">
+                                                    <div class="item-media">
+                                                        <a href="/Main/ArtistDetail/@a.ArtistId" class="item-media-content"
+                                                           style="background-image: url('/images/@a.Image')"></a>
+                                                    </div>
+                                                    <div class="item-info">
+                                                        <div class="item-title text-ellipsis"><a href="/Main/ArtistDetail/@a.ArtistId">@a.Name</a></div>
+                                                        <div class="item-author text-sm text-ellipsis">
+                                                            <a href="/Main/ArtistDetail/@a.ArtistId"
+                                                               class="text-muted">@a.Artist.Name</a>
+                                                        </div>
+                                                        <div class="item-meta text-sm text-muted"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("No Music");
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

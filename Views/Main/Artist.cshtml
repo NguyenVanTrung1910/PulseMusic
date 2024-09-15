@@ -1,0 +1,85 @@
+﻿@model IEnumerable<PulseMusic.Models.Artist>
+<div id="content" class="app-content grey bg box-shadow-z2" role="main">
+    <div class="app-header hidden-lg-up white lt box-shadow-z1">
+        <div class="navbar">
+            <a href="index.html" class="navbar-brand md">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 48 48" width="32" height="32">
+                    <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                    <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                    <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                    <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                    <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                    <circle cx="24" cy="24" r="3" fill="#000000" />
+                </svg> <img src="/images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+            </a>
+            <ul class="nav navbar-nav pull-right">
+                <li class="nav-item">
+                    <a data-toggle="modal" data-target="#aside" class="nav-link">
+                        <i class="material-icons">menu</i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="app-footer app-player grey bg">
+        <div class="playlist" style="width:100%"></div>
+    </div>
+    <div class="app-body" id="view">
+        <div class="page-content">
+            <div class="row-col">
+                <div class="col-lg-9 b-r no-border-md">
+                    <div class="padding">
+                        <div class="page-title m-b">
+                            <h1 class="inline m-a-0">Artists</h1>
+                            
+                        </div>
+                        <div data-ui-jp="jscroll" data-ui-options="{
+                                autoTrigger: false,
+                                loadingHtml: '<i class=\' fa fa-refresh fa-spin text-md text-muted\'>
+                            </i>',
+                            padding: 50,
+                            nextSelector: 'a.jscroll-next:last'
+                            }">
+                            <div class="row row-lg">
+                                @foreach(var artist in Model)
+                                {
+                                    foreach(var a  in ViewBag.SongCount)
+                                    {
+                                        if (artist.Name == a.ArtistName)
+                                        {
+                                            <div class="col-xs-4 col-sm-4 col-md-3">
+                                                <div class="item">
+                                                    <div class="item-media rounded">
+                                                        <a href="/main/artistdetail/@artist.Id" class="item-media-content"
+                                                            style="background-image: url('/images/@artist.Image')"></a>
+                                                    </div>
+                                                    <div class="item-info text-center">
+                                                        <div class="item-title text-ellipsis">
+                                                            <a href="/main/artistdetail/@artist.Id">@artist.Name</a>
+                                                            <div class="text-sm text-muted">@a.SongCount songs</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                }
+                                
+
+                            </div><a href="#" class="btn btn-sm white rounded jscroll-next">Show More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 w-xxl w-auto-md">
+                    <div class="padding sticky-element" style="bottom: 60px;position:sticky;top:0px;z-index:100">
+                        <h6 class="text text-muted">5 Likes</h6>
+                        <div class="row item-list item-list-sm m-b">
+                            @await Component.InvokeAsync("MusicLiking")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

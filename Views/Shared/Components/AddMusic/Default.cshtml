@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PulseMusic.Models.PlayList>
+
+<div class="container">
+	<div class="modal" id="addPlaylist">
+		<div class=" modal-dialog-centered modal-dialog">
+			<div class="modal-content bg-secondary" style="width:80%;margin-left:10%">
+				<div class="modal-header ">
+					<p class="modal-title">Add Music To Playlists</p>
+				</div>
+				<div class="modal-body list-group bg-secondary">
+					@if (Model == null || !Model.Any())
+					{
+						<p>You haven't playlist !!!</p>
+					}
+					else
+					{
+						@foreach (var a in Model)
+						{
+							<form method="post" action="/collection/addplaylist" class="addmusic list-group-item ">
+								<span>@a.Name</span>
+								<input type="text" name="playlist" value="@a.Id" hidden/>
+								<button type="submit" class="jus" style="float:right;background-color:gray;border:none;border-radius:5px">Add</button>
+							</form>
+						}
+					}
+					
+					
+				</div>
+				<div class="modal-footer bg-secondary">
+					<button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>

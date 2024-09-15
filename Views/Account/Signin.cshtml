@@ -1,0 +1,117 @@
+﻿@model PulseMusic.Models.Account
+
+@{
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Pulse Music</title>
+    <meta name="description" content="Music, Musician, Bootstrap">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
+    <link rel="apple-touch-icon" href="/images/logo.png">
+    <link rel="shortcut icon" sizes="196x196" href="/images/logo.png">
+    <link rel="stylesheet" href="/css/animate.css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/glyphicons/glyphicons.css" type="text/css">
+    <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/material-design-icons/material-design-icons.css" type="text/css">
+    <link rel="stylesheet" href="/css/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/styles/app.min.css">
+</head>
+
+<body>
+    <div class="app dk" id="app">
+        <div class="padding">
+            <div class="navbar">
+                <div class="pull-center">
+                    <a href="index.html" class="navbar-brand md">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32">
+                            <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                            <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                            <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                            <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                            <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                            <circle cx="24" cy="24" r="3" fill="#000000" />
+                        </svg> <img src="/images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="b-t">
+            <div class="center-block w-xxl w-auto-xs p-y-md text-center">
+                <div class="p-a-md">
+                    <div>
+                        <a href="/account/loginfacebook" class="btn btn-block indigo text-white m-b-sm">
+                            <i class="fa fa-facebook pull-left"></i> Sign in with Facebook
+                        </a> <a href="/account/logingoogle"
+                                class="btn btn-block red text-white">
+                            <i class="fa fa-google-plus pull-left"></i> Sign in
+                            with Google+
+                        </a>
+                    </div>
+                    <div class="m-y text-sm">OR</div>
+                    <form name="form" action="/account/signin" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <input asp-for="Email" class="form-control" placeholder="Email"  required>
+                            <span asp-validation-for="Email" class="text-danger m-0"></span>
+                        </div>
+                        <div class="form-group">
+                            <input asp-for="Password" type="password"  class="form-control" placeholder="password" required>
+                            <span class="text-danger m-0">@ViewBag.Error</span>
+                            <span asp-validation-for="Password" class="text-danger m-0"></span>
+                        </div>
+                        <div class="m-b-md">
+                            <label class="md-check">
+                                <input type="checkbox" id="rememberMe"><i class="primary"></i> Keep
+                                me signed in
+                            </label>
+                        </div><button type="submit" class="btn btn-lg black p-x-lg">
+                            Sign
+                            in
+                        </button>
+                    </form>
+                    <div class="m-y"><a href="/account/forgotpassword" class="_600">Forgot password?</a></div>
+                    <div>Do not have an account? <a href="/account/signup" class="text-primary _600">Sign up</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="scripts/app.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Check if the email and password are stored in localStorage
+            if (localStorage.getItem('rememberMe') === 'true') {
+                document.getElementById('email').value = localStorage.getItem('email');
+                document.getElementById('password').value = localStorage.getItem('password');
+                document.getElementById('rememberMe').checked = true;
+            }
+        });
+
+        document.querySelector('form').addEventListener('submit', function () {
+            var email = document.getElementById('email').value;
+            var password = document.getElementById('password').value;
+            var rememberMe = document.getElementById('rememberMe').checked;
+
+            if (rememberMe) {
+                // Store email and password in localStorage
+                localStorage.setItem('email', email);
+                localStorage.setItem('password', password);
+                localStorage.setItem('rememberMe', true);
+            } else {
+                // Clear stored email and password
+                localStorage.removeItem('email');
+                localStorage.removeItem('password');
+                localStorage.removeItem('rememberMe');
+            }
+        });
+    </script>
+
+</body>
+
+</html>

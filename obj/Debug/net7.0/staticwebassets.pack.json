@@ -1,0 +1,3065 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PulseMusic.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PulseMusic.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap-to-do-list.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-to-do-list.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_animation.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_animation.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_normalize.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_normalize.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_responsive-embed.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_tags.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_tags.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_pulls.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_pulls.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_tag.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_tag.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_pulls.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_pulls.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\fonts\\poppins\\700.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\poppins\\700.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\glyphicons\\glyphicons.css",
+      "PackagePath": "staticwebassets\\css\\glyphicons\\glyphicons.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\material-design-icons\\iconfont\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\css\\material-design-icons\\iconfont\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\material-design-icons\\material-design-icons.css",
+      "PackagePath": "staticwebassets\\css\\material-design-icons\\material-design-icons.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\styles\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\styles\\app.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\accent.css",
+      "PackagePath": "staticwebassets\\css\\theme\\accent.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\blue.css",
+      "PackagePath": "staticwebassets\\css\\theme\\blue.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\danger.css",
+      "PackagePath": "staticwebassets\\css\\theme\\danger.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\info.css",
+      "PackagePath": "staticwebassets\\css\\theme\\info.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\primary.css",
+      "PackagePath": "staticwebassets\\css\\theme\\primary.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\success.css",
+      "PackagePath": "staticwebassets\\css\\theme\\success.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\warn.css",
+      "PackagePath": "staticwebassets\\css\\theme\\warn.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\css\\theme\\warning.css",
+      "PackagePath": "staticwebassets\\css\\theme\\warning.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\14_casper.jpg",
+      "PackagePath": "staticwebassets\\images\\14_casper.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\1_phút.jpg",
+      "PackagePath": "staticwebassets\\images\\1_phút.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\Datkaa.jpg",
+      "PackagePath": "staticwebassets\\images\\Datkaa.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\Jank.jpg",
+      "PackagePath": "staticwebassets\\images\\Jank.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\Trịnh_thăng_bình.jpg",
+      "PackagePath": "staticwebassets\\images\\Trịnh_thăng_bình.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\a3.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\andiez.jpg",
+      "PackagePath": "staticwebassets\\images\\andiez.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\anh_chẳng_thể.jpg",
+      "PackagePath": "staticwebassets\\images\\anh_chẳng_thể.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\anh_chỉ_muốn.jpg",
+      "PackagePath": "staticwebassets\\images\\anh_chỉ_muốn.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\bao_tiền_một_mớ_bình_yên.jpg",
+      "PackagePath": "staticwebassets\\images\\bao_tiền_một_mớ_bình_yên.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg3.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\buồn_làm_chi_em_ơi.jpg",
+      "PackagePath": "staticwebassets\\images\\buồn_làm_chi_em_ơi.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\bạn_đời.jpg",
+      "PackagePath": "staticwebassets\\images\\bạn_đời.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\c3.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\cao_thái_sơn.jpg",
+      "PackagePath": "staticwebassets\\images\\cao_thái_sơn.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\chạy khỏi thế giới này.jpg",
+      "PackagePath": "staticwebassets\\images\\chạy khỏi thế giới này.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\chờ_đợi_có_đáng_sợ.jpg",
+      "PackagePath": "staticwebassets\\images\\chờ_đợi_có_đáng_sợ.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\clow.jpg",
+      "PackagePath": "staticwebassets\\images\\clow.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\có hẹn với thanh xuân.jpg",
+      "PackagePath": "staticwebassets\\images\\có hẹn với thanh xuân.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\có_chơi_có_chịu.jpg",
+      "PackagePath": "staticwebassets\\images\\có_chơi_có_chịu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\cô_phòng.jpg",
+      "PackagePath": "staticwebassets\\images\\cô_phòng.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\cắt_đôi_nỗi_sầu.jpg",
+      "PackagePath": "staticwebassets\\images\\cắt_đôi_nỗi_sầu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\default_image.jpg",
+      "PackagePath": "staticwebassets\\images\\default_image.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\dừng_thương.jpg",
+      "PackagePath": "staticwebassets\\images\\dừng_thương.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\gió.jpg",
+      "PackagePath": "staticwebassets\\images\\gió.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\giấc_mơ_trưa.jpg",
+      "PackagePath": "staticwebassets\\images\\giấc_mơ_trưa.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\hoa_nở_không_màu.jpg",
+      "PackagePath": "staticwebassets\\images\\hoa_nở_không_màu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\hoài_lâm.jpg",
+      "PackagePath": "staticwebassets\\images\\hoài_lâm.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\hơn_em_chỗ_nào.jpg",
+      "PackagePath": "staticwebassets\\images\\hơn_em_chỗ_nào.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\hạ_còn_vương_nắng.jpg",
+      "PackagePath": "staticwebassets\\images\\hạ_còn_vương_nắng.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\hồ_quang_hiếu.jpg",
+      "PackagePath": "staticwebassets\\images\\hồ_quang_hiếu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\karik.jpg",
+      "PackagePath": "staticwebassets\\images\\karik.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\khi_mà.jpg",
+      "PackagePath": "staticwebassets\\images\\khi_mà.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\không cảm xúc.jpg",
+      "PackagePath": "staticwebassets\\images\\không cảm xúc.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\lan_man.jpg",
+      "PackagePath": "staticwebassets\\images\\lan_man.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\lu.jpg",
+      "PackagePath": "staticwebassets\\images\\lu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\lạ_lùng.jpg",
+      "PackagePath": "staticwebassets\\images\\lạ_lùng.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\lệ_lưu_ly.jpg",
+      "PackagePath": "staticwebassets\\images\\lệ_lưu_ly.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\mây.jpg",
+      "PackagePath": "staticwebassets\\images\\mây.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\mặt_trời_của_em.jpg",
+      "PackagePath": "staticwebassets\\images\\mặt_trời_của_em.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\ngây_thơ.jpg",
+      "PackagePath": "staticwebassets\\images\\ngây_thơ.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\người_lạ_ơi.jpg",
+      "PackagePath": "staticwebassets\\images\\người_lạ_ơi.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\nhắn_nhủ.jpg",
+      "PackagePath": "staticwebassets\\images\\nhắn_nhủ.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\nơi_ấy_con_tìm_về.jpg",
+      "PackagePath": "staticwebassets\\images\\nơi_ấy_con_tìm_về.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\phương_ly.jpg",
+      "PackagePath": "staticwebassets\\images\\phương_ly.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\phạm_kỳ.jpg",
+      "PackagePath": "staticwebassets\\images\\phạm_kỳ.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\quang_đăng_trần.jpg",
+      "PackagePath": "staticwebassets\\images\\quang_đăng_trần.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\reddy.jpg",
+      "PackagePath": "staticwebassets\\images\\reddy.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\ronboogz.jpg",
+      "PackagePath": "staticwebassets\\images\\ronboogz.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\suýt_nữa_thì.jpg",
+      "PackagePath": "staticwebassets\\images\\suýt_nữa_thì.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\thì_thôi.jpg",
+      "PackagePath": "staticwebassets\\images\\thì_thôi.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\thùy_chi.jpg",
+      "PackagePath": "staticwebassets\\images\\thùy_chi.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\thằng_điên.jpg",
+      "PackagePath": "staticwebassets\\images\\thằng_điên.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\tâm_sự_tuổi_30.jpg",
+      "PackagePath": "staticwebassets\\images\\tâm_sự_tuổi_30.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\tình_đầu.jpg",
+      "PackagePath": "staticwebassets\\images\\tình_đầu.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\tăng_duy_tân.jpg",
+      "PackagePath": "staticwebassets\\images\\tăng_duy_tân.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\tương_tư.jpg",
+      "PackagePath": "staticwebassets\\images\\tương_tư.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\tất_cả_hoặc_không_là_gì_cả.jpg",
+      "PackagePath": "staticwebassets\\images\\tất_cả_hoặc_không_là_gì_cả.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\vì_mẹ_anh_bắt_chia_tay.jpg",
+      "PackagePath": "staticwebassets\\images\\vì_mẹ_anh_bắt_chia_tay.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\vũ.jpg",
+      "PackagePath": "staticwebassets\\images\\vũ.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\vũ_phụng_tiên.jpg",
+      "PackagePath": "staticwebassets\\images\\vũ_phụng_tiên.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\xe_đạp.jpg",
+      "PackagePath": "staticwebassets\\images\\xe_đạp.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\yêu_đơn_phương_là_gì.jpg",
+      "PackagePath": "staticwebassets\\images\\yêu_đơn_phương_là_gì.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\images\\đánh_mất_em.jpg",
+      "PackagePath": "staticwebassets\\images\\đánh_mất_em.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\jquery.sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky-kit.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\mdb.min.js",
+      "PackagePath": "staticwebassets\\js\\mdb.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\js\\screenfull.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\screenfull\\dist\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\lib\\screenfull\\dist\\screenfull.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\lib\\sticky-kit\\jquery.sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\lib\\sticky-kit\\jquery.sticky-kit.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\1_phút.mp3",
+      "PackagePath": "staticwebassets\\music\\1_phút.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\anh_chẳng_thể.mp3",
+      "PackagePath": "staticwebassets\\music\\anh_chẳng_thể.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\anh_chỉ_muốn.mp3",
+      "PackagePath": "staticwebassets\\music\\anh_chỉ_muốn.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\bao_tiền_một_mớ_bình_yên.mp3",
+      "PackagePath": "staticwebassets\\music\\bao_tiền_một_mớ_bình_yên.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\buồn_làm_chi_em_ơi.mp3",
+      "PackagePath": "staticwebassets\\music\\buồn_làm_chi_em_ơi.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\bạn_đời.mp3",
+      "PackagePath": "staticwebassets\\music\\bạn_đời.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\chạy_khỏi_thế_giới_này.mp3",
+      "PackagePath": "staticwebassets\\music\\chạy_khỏi_thế_giới_này.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\chờ_đợi_có_đáng_sợ.mp3",
+      "PackagePath": "staticwebassets\\music\\chờ_đợi_có_đáng_sợ.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\clow.jpg",
+      "PackagePath": "staticwebassets\\music\\clow.jpg"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\có hẹn với thanh xuân.mp3",
+      "PackagePath": "staticwebassets\\music\\có hẹn với thanh xuân.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\có_chơi_có_chịu.mp3",
+      "PackagePath": "staticwebassets\\music\\có_chơi_có_chịu.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\cô_phòng.mp3",
+      "PackagePath": "staticwebassets\\music\\cô_phòng.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\cắt_đôi_nỗi_sầu.mp3",
+      "PackagePath": "staticwebassets\\music\\cắt_đôi_nỗi_sầu.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\dừng_thương.mp3",
+      "PackagePath": "staticwebassets\\music\\dừng_thương.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\gió.mp3",
+      "PackagePath": "staticwebassets\\music\\gió.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\giấc_mơ_trưa.mp3",
+      "PackagePath": "staticwebassets\\music\\giấc_mơ_trưa.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\hoa_nở_không_màu.mp3",
+      "PackagePath": "staticwebassets\\music\\hoa_nở_không_màu.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\hơn_em_chỗ_nào.mp3",
+      "PackagePath": "staticwebassets\\music\\hơn_em_chỗ_nào.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\hạ_còn_vương_nắng.mp3",
+      "PackagePath": "staticwebassets\\music\\hạ_còn_vương_nắng.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\khi_mà.mp3",
+      "PackagePath": "staticwebassets\\music\\khi_mà.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\không_cảm_xúc.mp3",
+      "PackagePath": "staticwebassets\\music\\không_cảm_xúc.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\lan_man.mp3",
+      "PackagePath": "staticwebassets\\music\\lan_man.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\là_lùng.mp3",
+      "PackagePath": "staticwebassets\\music\\là_lùng.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\lệ_lưu_ly.mp3",
+      "PackagePath": "staticwebassets\\music\\lệ_lưu_ly.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\mây.mp3",
+      "PackagePath": "staticwebassets\\music\\mây.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\mặt_trời_của_em.mp3",
+      "PackagePath": "staticwebassets\\music\\mặt_trời_của_em.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\ngây_thơ.mp3",
+      "PackagePath": "staticwebassets\\music\\ngây_thơ.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\người lạ ơi.mp3",
+      "PackagePath": "staticwebassets\\music\\người lạ ơi.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\nhắn_nhủ.mp3",
+      "PackagePath": "staticwebassets\\music\\nhắn_nhủ.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\nơi_ấy_con_tìm_về.mp3",
+      "PackagePath": "staticwebassets\\music\\nơi_ấy_con_tìm_về.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\suýt_nữa_thì.mp3",
+      "PackagePath": "staticwebassets\\music\\suýt_nữa_thì.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\thì_thôi.mp3",
+      "PackagePath": "staticwebassets\\music\\thì_thôi.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\thằng_điên.mp3",
+      "PackagePath": "staticwebassets\\music\\thằng_điên.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\tâm_sự_tuổi_30.mp3",
+      "PackagePath": "staticwebassets\\music\\tâm_sự_tuổi_30.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\tình_đầu.mp3",
+      "PackagePath": "staticwebassets\\music\\tình_đầu.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\tương_tư.mp3",
+      "PackagePath": "staticwebassets\\music\\tương_tư.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\tất_cả_hoặc_không_là_gì_cả.mp3",
+      "PackagePath": "staticwebassets\\music\\tất_cả_hoặc_không_là_gì_cả.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\vì_mẹ_anh_bắt_chia_tay.mp3",
+      "PackagePath": "staticwebassets\\music\\vì_mẹ_anh_bắt_chia_tay.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\xe_đạp.mp3",
+      "PackagePath": "staticwebassets\\music\\xe_đạp.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\yêu_đơn_phương_là_gì.mp3",
+      "PackagePath": "staticwebassets\\music\\yêu_đơn_phương_là_gì.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\music\\đánh_mất_em.mp3",
+      "PackagePath": "staticwebassets\\music\\đánh_mất_em.mp3"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\icheck-bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\plugins\\overlayScrollbars\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\sparklines\\sparkline.js",
+      "PackagePath": "staticwebassets\\plugins\\sparklines\\sparkline.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\sparklines\\sparkline.mjs",
+      "PackagePath": "staticwebassets\\plugins\\sparklines\\sparkline.mjs"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\font\\summernote.hash",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.hash"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.css.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.css.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.min.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-bs5.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-bs5.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.css.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.css.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.css.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\summernote\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.js.map"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\CNTT\\TrungDesigner\\PulseMusic\\wwwroot\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\tempusdominus-bootstrap-4\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PulseMusic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PulseMusic.props",
+      "PackagePath": "build\\PulseMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PulseMusic.props",
+      "PackagePath": "buildMultiTargeting\\PulseMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PulseMusic.props",
+      "PackagePath": "buildTransitive\\PulseMusic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

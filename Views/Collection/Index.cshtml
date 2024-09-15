@@ -1,0 +1,248 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access
+
+<div id="content" class="app-content grey bg box-shadow-z2" role="main">
+    <div class="app-header hidden-lg-up white lt box-shadow-z1">
+        <div class="navbar">
+            <a href="index.html" class="navbar-brand md">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 48 48" width="32" height="32">
+                    <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                    <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                    <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                    <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                    <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                    <circle cx="24" cy="24" r="3" fill="#000000" />
+                </svg> <img src="/images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+            </a>
+            <ul class="nav navbar-nav pull-right">
+                <li class="nav-item">
+                    <a data-toggle="modal" data-target="#aside" class="nav-link">
+                        <i class="material-icons">menu</i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="app-footer app-player grey bg">
+        <div class="playlist" style="width:100%"></div>
+    </div>
+    <div class="app-body" id="view">
+        <div class="page-bg" data-stellar-ratio="2" style="background-image: url('/images/bg2.jpg')"></div>
+        <div class="page-content" style="padding-bottom:400px">
+            <div class="padding b-b">
+                <div class="row-col">
+                    <div class="col-sm w w-auto-xs m-b">
+                        <div class="item w rounded">
+                            <div class="item-media">
+                                <div class="item-media-content" style="background-image: url('/images/bg3.jpg')">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="p-l-md no-padding-xs">
+                            <h1 class="page-title"><span class="h1 _800">@access.HttpContext.Session.GetString("Name")</span></h1>
+                            <p class="item-desc text-ellipsis text-muted" data-ui-toggle-class="text-ellipsis">
+                                Hello, you have visited our website. We invite you to listen to these wonderful songs so you can be happy, laugh, and cry while living.
+                            </p>
+                            <div class="item-action m-b">
+                                <a  class="btn btn-sm rounded primary"><span>@ViewBag.NumberPlaylist</span> <span>Albums</span></a>
+                                <a class="btn btn-sm rounded white" ><span>@ViewBag.NumberTrack</span> <span>Tracks</span></a>
+                                <a class="btn btn-sm rounded primary" type="button" data-toggle="modal" data-target="#exampleModal"><span >Create Playlist</span></a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row-col">
+                <div class="col-lg-9 b-r no-border-md">
+                    <div class="padding p-y-0 m-b-md">
+                        <div class="nav-active-border b-primary bottom m-b-md m-t">
+                            <ul class="nav l-h-2x" data-ui-jp="taburl">
+                                <li class="nav-item m-r inline">
+                                    <a class="nav-link" href="/Collection/Index#likes" data-toggle="tab"
+                                       data-target="#like">Likes</a>
+                                </li>
+
+                                <li class="nav-item m-r inline">
+                                    <a class="nav-link" href="/Collection/Index#playlists" data-toggle="tab"
+                                       data-target="#playlist">Playlists</a>
+                                </li>
+
+                                <li class="nav-item m-r inline">
+                                    <a class="nav-link active" href="/Collection/Index#tracks"
+                                       data-toggle="tab" data-target="#track">Tracks</a>
+                                </li>
+
+                            </ul>
+
+                        </div>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="track">
+                                <div class="row item-list item-list-by m-b">
+                                    @foreach(var a in ViewBag.Tracks)
+                                    {
+                                        <div class="col-xs-12">
+                                            <div class="item r" 
+                                                 >
+                                                <div class="item-media">
+                                                    <a href="/Main/ArtistDetail/@a.ArtistId"
+                                                       class="item-media-content"
+                                                       style="background-image: url('/images/@a.Artist.Image')"></a>
+                                                    
+                                                </div>
+                                                <div class="item-info">
+                                                    <div class="item-title text-ellipsis">
+                                                        <a href="/Main/ArtistDetail/@a.ArtistId">@a.Artist.Name</a>
+                                                    </div>
+                                                    <div class="item-author text-sm text-ellipsis hide">
+                                                        <a href="/Main/ArtistDetail/@a.ArtistId" class="text-muted">
+                                                            @a.Artist.Name
+                                                        </a>
+                                                    </div>
+
+
+                                                    <div class="item-action visible-list m-t-sm">
+                                                        <a href="/Main/ArtistDetail/@a.ArtistId" class="btn btn-xs white">View</a>
+                                                        <a href="#" class="btn btn-xs white delete-btn" data-toggle="modal" data-target="#delete-modal" data-id="@a.ArtistId">Delete</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                    
+
+                                </div>
+                            </div>
+                            <div class="tab-pane" id="playlist">
+                                <div class="row m-b">
+                                    @foreach (var a in ViewBag.PlayList)
+                                    {
+                                        <div class="col-xs-4 col-sm-4 col-md-3">
+                                            <div class="item r" >
+                                                @if(ViewBag.AllListDetail.Count !=0){
+                                                    @foreach (var listdetail in ViewBag.AllListDetail)
+                                                    {
+                                                        if (a.ListDetails.Count != 0)
+                                                        {
+                                                            if (a.ListDetails[0].Id.Equals(listdetail.Id))
+                                                            {
+                                                                <div class="item-media" data-id="item-@listdetail.Music.Id.Substring(1)" data-src="/music/@listdetail.Music.LinkAudio">
+                                                                    <div class="item-overlay text-right" style="z-index:10;width:100%">
+                                                                        <a data-id="@a.Id" class=" btn deleteplaylist" style="float:right;color:white"><i class="fa fa-times"></i></a>
+                                                                    </div>
+                                                                
+                                                                    <a href="/Collection/Playlist/@a.Id"
+                                                                       class="item-media-content"
+                                                                       style="background-image: url('/images/@listdetail.Music.Image')">
+                                                                   </a>
+                                                                </div>
+                                                                break;
+                                                            }
+                                                        }
+                                                        else
+                                                        {
+                                                            <div class="item-media" >
+                                                                <a href="#"
+                                                                class="item-media-content"
+                                                                style="background-image: url('/images/default_image.jpg')">
+                                                                </a>
+                                                            </div>
+                                                            break;
+                                                        }
+
+                                                    
+                                                    }
+                                                }else{
+                                                    <div class="item-media">
+                                                        <a href="#"
+                                                           class="item-media-content"
+                                                           style="background-image: url('/images/default_image.jpg')">
+                                                        </a>
+                                                    </div>
+                                                }
+                                                
+                                                <div class="item-info">
+                                                   
+                                                    <div class="item-title text-ellipsis">
+                                                        <a href="/Collection/playlist/@a.Id">@a.Name</a>
+                                                    </div>
+                                                    <div class="item-author text-sm text-ellipsis hide">
+                                                        <a href="#" class="text-muted">@a.Name</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                    
+
+                                </div>
+                            </div>
+                            <div class="tab-pane" id="like">
+                                <div class="row m-b">
+                                    @foreach (var a in ViewBag.Liking)
+                                    {
+                                        <div class="col-xs-4 col-sm-4 col-md-3">
+                                            <div class="item r" data-id="item-@a.Music.Id.Substring(1)"
+                                                 data-src="/music/@a.Music.LinkAudio">
+                                                <div class="item-media">
+                                                    <a href="#"
+                                                       class="item-media-content"
+                                                       style="background-image: url('/images/@a.Music.Image')"></a>
+                                                    <div class="item-overlay" style="width:100% ;color:white">
+                                                        <a data-id="@a.Id" class="btn-close btn" style="float:right;color:white"><i class="fa fa-times"></i></a>
+                                                    </div>
+                                                    <div class="item-overlay center">
+                                                        <button class="btn-playpause">
+                                                            Play
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="item-info">
+                                                    <div class="item-overlay bottom text-right">
+                                                        <a href="#" class="btn-favorite" data-id="@a.Music.Id"><i class="fa fa-heart-o"></i></a> <a href="#" class="btn-more" data-toggle="dropdown" data-id="@a.Music.Id">
+                                                            <i class="fa fa-ellipsis-h"></i>
+                                                        </a>
+                                                        <div class="dropdown-menu pull-right black lt"></div>
+                                                    </div>
+                                                    <div class="item-title text-ellipsis">
+                                                        <a href="#">@a.Music.Name</a>
+                                                    </div>
+                                                    <div class="item-author text-sm text-ellipsis hide">
+                                                        <a href="#" class="text-muted">
+                                                            @a.Music.Name
+                                                        </a>
+                                                    </div>
+                                                    <div class="item-meta text-sm text-muted">
+                                                        <span class="item-meta-stats text-xs">
+                                                            <i class="fa fa-play text-muted"></i> @a.Music.Player <i class="fa fa-heart m-l-sm text-muted"></i> @a.Music.Likes
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                    
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 w-xxl w-auto-md">
+                    <div class="padding" style="bottom: 60px" data-ui-jp="stick_in_parent">
+                        <h6 class="text text-muted">5 Likes</h6>
+                        <div class="row item-list item-list-sm m-b">
+                            @await Component.InvokeAsync("MusicLiking")
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>

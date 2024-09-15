@@ -1,0 +1,26 @@
+﻿@model IEnumerable<PulseMusic.Models.Music>
+
+
+@foreach (var a in Model)
+{
+    <div class="col-xs-12">
+        <div class="item r" data-id="item-@a.Id.Substring(1)"
+             data-src="/music/@a.LinkAudio">
+            <div class="item-media">
+                <a href="/Main/ArtistDetail/@a.ArtistId"
+                   class="item-media-content"
+                   style="background-image: url('/images/@a.Image')"></a>
+            </div>
+            <div class="item-info">
+                <div class="item-title text-ellipsis">
+                    <a href="/Main/ArtistDetail/@a.ArtistId">
+                        @a.Name
+                    </a>
+                </div>
+                <div class="item-author text-sm text-ellipsis">
+                    <a href="/Main/ArtistDetail/@a.ArtistId" class="text-muted">@a.Artist.Name</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}

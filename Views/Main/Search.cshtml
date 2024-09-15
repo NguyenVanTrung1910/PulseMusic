@@ -1,0 +1,118 @@
+﻿@model IEnumerable<PulseMusic.Models.Music>
+
+<div id="content" class="app-content grey bg box-shadow-z2" role="main">
+    <div class="app-header hidden-lg-up grey lt box-shadow-z1">
+        <div class="navbar">
+            <a href="index.html" class="navbar-brand md">
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 48 48" width="32" height="32">
+                    <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                    <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                    <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                    <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                    <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                    <circle cx="24" cy="24" r="3" fill="#000000" />
+                </svg> <img src="images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+            </a>
+            <ul class="nav navbar-nav pull-right">
+                <li class="nav-item">
+                    <a data-toggle="modal" data-target="#aside" class="nav-link">
+                        <i class="material-icons">menu</i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="app-footer app-player grey bg">
+        <div class="playlist" style="width:100%"></div>
+    </div>
+    <div class="app-body" id="view">
+        <div class="padding">
+            <form action="/Main/GetMusic" class="m-b-md" method="post">
+                <div class="input-group input-group-lg">
+                    <input type="text" class="form-control" name="searchkey"
+                           placeholder="Type keyword"> <span class="input-group-btn">
+                        <button class="btn b-a no-shadow white" type="submit">
+                            Search
+                        </button>
+                    </span>
+                </div>
+            </form>
+            @if (@ViewBag.Number != 0)
+            {
+                <p class="m-b-md"><strong>@ViewBag.Number</strong> Results found for: <strong>@ViewBag.Key</strong></p>
+
+            }
+            <div class="m-y">
+                <div class="row item-list item-list-lg item-list-by m-b">
+                    @foreach(var a in Model)
+                    {
+                        <div class="col-xs-12">
+                        <div class="item r" data-id="item-@a.Id.Substring(1)"
+                             data-src="/music/@a.LinkAudio">
+                            <div class="item-media">
+                                <a href="/Main/ArtistDetail/@a.ArtistId" class="item-media-content"
+                                   style="background-image: url('/images/@a.Image')"></a>
+                                <div class="item-overlay center">
+                                    <button class="btn-playpause">Play</button>
+                                </div>
+                            </div>
+                            <div class="item-info">
+                                <div class="item-overlay bottom text-right">
+                                        <a href="#" class="btn-favorite" data-id="@a.Id">
+                                        <i class="fa fa-heart-o"></i>
+                                    </a> <a href="#" class="btn-more"
+                                            data-toggle="dropdown"><i class="fa fa-ellipsis-h"></i></a>
+                                    <div class="dropdown-menu pull-right black lt"></div>
+                                </div>
+                                <div class="item-title text-ellipsis">
+                                        <a href="/Main/ArtistDetail/@a.ArtistId">
+                                        @a.Name
+                                    </a>
+                                </div>
+                                <div class="item-author text-sm text-ellipsis">
+                                        <a href="/Main/ArtistDetail/@a.ArtistId"
+                                       class="text-muted">@a.Artist.Name</a>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                    }
+                    
+
+                </div>
+                
+            </div>
+            <h6>The artist have been found</h6>
+            <div class="row row-lg">
+                @foreach (var artist in ViewBag.Artist)
+                {
+                    foreach (var a in ViewBag.SongCount)
+                    {
+                        if (artist.Name == a.ArtistName)
+                        {
+                            <div class="col-xs-4 col-sm-4 col-md-3">
+                                <div class="item">
+                                    <div class="item-media rounded">
+                                        <a href="/main/artistdetail/@artist.Id" class="item-media-content"
+                                           style="background-image: url('/images/@artist.Image')"></a>
+                                    </div>
+                                    <div class="item-info text-center">
+                                        <div class="item-title text-ellipsis">
+                                            <a href="/main/artistdetail/@artist.Id">@artist.Name</a>
+                                            <div class="text-sm text-muted">@a.SongCount songs</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                }
+
+
+            </div>
+        </div>
+    </div>
+</div>

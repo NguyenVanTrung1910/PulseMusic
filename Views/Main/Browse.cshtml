@@ -1,0 +1,112 @@
+﻿@model IEnumerable<PulseMusic.Models.Music>
+
+<div id="content" class="app-content grey bg box-shadow-z2" role="main">
+    <div class="app-header hidden-lg-up white lt box-shadow-z1">
+        <div class="navbar">
+            <a href="index.html" class="navbar-brand md">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32">
+                    <circle cx="24" cy="24" r="24" fill="rgba(255,255,255,0.2)" />
+                    <circle cx="24" cy="24" r="22" fill="#1c202b" class="brand-color" />
+                    <circle cx="24" cy="24" r="10" fill="#ffffff" />
+                    <circle cx="13" cy="13" r="2" fill="#ffffff" class="brand-animate" />
+                    <path d="M 14 24 L 24 24 L 14 44 Z" fill="#FFFFFF" />
+                    <circle cx="24" cy="24" r="3" fill="#000000" />
+                </svg> <img src="/images/logo.png" alt="." class="hide"> <span class="hidden-folded inline">pulse</span>
+            </a>
+            <ul class="nav navbar-nav pull-right">
+                <li class="nav-item">
+                    <a data-toggle="modal" data-target="#aside" class="nav-link">
+                        <i class="material-icons">menu</i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="app-footer app-player grey bg">
+        <div class="playlist" style="width:100%"></div>
+    </div>
+    <div class="app-body" id="view">
+        <div class="page-content">
+            <div class="row-col">
+                <div class="col-lg-9 b-r no-border-md">
+                    <div class="padding">
+                        <div class="page-title m-b">
+                            <h1 class="inline m-a-0">Browse</h1>
+                            <div class="dropdown inline">
+                                @if(ViewBag.Genre == null)
+                                {
+                                    <button class="btn btn-sm no-bg h4 m-y-0 v-b dropdown-toggle text-primary"data-toggle="dropdown" id="Genrebt">All</button>
+                                }else{
+                                    <button class="btn btn-sm no-bg h4 m-y-0 v-b dropdown-toggle text-primary" data-toggle="dropdown" id="Genrebt">@ViewBag.Genre</button> 
+                                }
+                                
+                                <div class="dropdown-menu">
+                                    <a href="/Main/FilterGenre?genre=All" class="dropdown-item active">All</a>
+
+                                    @foreach (var a in ViewBag.Filter)
+                                    {
+                                        <a href="/Main/FilterGenre?genre=@a.Name" class="dropdown-item dt2" data-value="@a.Name">@a.Name</a>
+
+                                    }
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-ui-jp="jscroll" class="jscroll-loading-center" data-ui-options="{
+                                autoTrigger: true,
+                                loadingHtml: '<i class=\' fa fa-refresh fa-spin text-md text-muted\'>
+                            </i>',
+                            padding: 50,
+                            nextSelector: 'a.jscroll-next:last'
+                            }">
+                            <div class="row">
+                                @foreach(var music in Model)
+                                {
+                                    <div class="col-xs-4 col-sm-4 col-md-3">
+                                        <div class="item r" data-id="item-@music.Id.Substring(1)"
+                                        data-src="/music/@music.LinkAudio">
+                                        <div class="item-media">
+                                                <a href="/Main/ArtistDetail/@music.ArtistId" class="item-media-content"
+                                                style="background-image: url('/images/@music.Image')"></a>
+                                            <div class="item-overlay center"><button class="btn-playpause">Play</button>
+                                            </div>
+                                        </div>
+                                        <div class="item-info">
+                                            <div class="item-overlay bottom text-right">
+                                                    <a href="#" class="btn-favorite" data-id="@music.Id">
+                                                    <i class="fa fa-heart-o"></i>
+                                                </a> <a href="#" class="btn-more" data-toggle="dropdown">
+                                                    <i class="fa fa-ellipsis-h"></i>
+                                                </a>
+                                                <div class="dropdown-menu pull-right black lt"></div>
+                                            </div>
+                                                <div class="item-title text-ellipsis">
+                                                    <a href="/Main/ArtistDetail/@music.ArtistId">
+                                                        @music.Name
+                                                    </a></div>
+                                            <div class="item-author text-sm text-ellipsis">
+                                                    <a href="/Main/ArtistDetail/@music.ArtistId" class="text-muted">@music.Artist.Name</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                }
+                                
+                                
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 w-xxl w-auto-md">
+                    <div class="padding sticky-element" style="bottom: 60px;position:sticky;top:30px;z-index:100">
+                        <h6 class="text text-muted">5 Likes</h6>
+                        <div class="row item-list item-list-sm m-b">
+                            @await Component.InvokeAsync("MusicLiking")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
